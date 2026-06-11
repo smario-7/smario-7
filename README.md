@@ -15,3 +15,10 @@
 
 ### Portfolio
 - 🔗 [smario-7.github.io/Portfolio_mw/](https://smario-7.github.io/Portfolio_mw/)
+
+---
+I am a software developer with two years of experience building web and mobile applications, leveraging data analysis.
+
+I successfully build AI agents and various automation solutions designed to streamline daily workflows and reduce manual workload. I have always had a natural affinity for mathematics, and programming is essentially a natural evolution of this fruitful partnership.
+
+Additionally, my 15 years of experience as an entrepreneur have allowed me to hone essential soft skills, including an entrepreneurial mindset, facilitating collaboration, and strong organizational abilities.
